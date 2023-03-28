@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class InterchangedValue {
     public static void main(String[] args) {
+        //declare variables
         int a, b,c ;
         Scanner scanner=new Scanner(System.in);
         //acknowledge the user what to input
